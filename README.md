@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Justin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmmott&theme=radical&layout=compact&card_width=445&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a rel="me" href="https://hachyderm.io/@jmott"></a>
+<a rel="me" href="https://hachyderm.io/@jmott">.</a>
