@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 [![Justin's github stats](https://github-readme-stats.vercel.app/api?username=justinmmott&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Justin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmmott&theme=radical&layout=compact&card_width=445&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a rel="nofollow me" class="Link--primary" href="https://hachyderm.io/@jmott">.</a>
